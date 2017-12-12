@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3064ef4b-06ed-41b9-b3fc-2190ab9a60c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab3/TestWhileLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lab3/TestWhileLoop.java" afterPath="$PROJECT_DIR$/src/oop_lab3/TestWhileLoop.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,8 +92,8 @@
       <file leaf-file-name="TestWhileLoop.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestWhileLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="158">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -460,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513049204095</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test WhileLoop">
+      <created>1513050930535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1513050930535</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +514,8 @@
     <MESSAGE value="Grade Calculator" />
     <MESSAGE value="Test SwitchCase" />
     <MESSAGE value="Test ForLoop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test ForLoop" />
+    <MESSAGE value="Test WhileLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test WhileLoop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -683,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestWhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="158">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding />
         </state>
       </provider>

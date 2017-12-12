@@ -13,7 +13,7 @@ public class TestWhileLoop {
         while (i<=50){
             System.out.print(i+" ");
             if(i%10==0)
-                System.out.print(i+"Hello ");
+                System.out.print("Hello ");
             i++;
        }
 
@@ -23,7 +23,7 @@ public class TestWhileLoop {
         do{
             System.out.print(j+" ");
             if (j%2 != 0)
-                System.out.print(j+"Hello ");
+                System.out.print("Hello ");
             j++;
         }while (j <=10);
 
