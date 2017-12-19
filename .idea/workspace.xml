@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3064ef4b-06ed-41b9-b3fc-2190ab9a60c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lab5/InputDataToArray.java" afterPath="$PROJECT_DIR$/src/oop_lab5/InputDataToArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -546,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513658948650</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="InputDataToArray">
+      <created>1513659806171</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1513659806171</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
