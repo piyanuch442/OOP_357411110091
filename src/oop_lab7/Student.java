@@ -15,7 +15,7 @@ public class Student {
                 ", name='" + name + '\'' +
                 '}';
     }//tostring
-
+    public static String gender = "Male";
     private String id;
     private String major;
     private String faculty;
@@ -33,10 +33,10 @@ public class Student {
         this.name = n;
     }
     //getter and setter methods
-    public  String  getID(){
+    public  String  getId(){
         return this.id;
     }
-    public void  setID(String id){
+    public void  setId(String id){
         this.id = id;
     }
     public String getFaculty() {
