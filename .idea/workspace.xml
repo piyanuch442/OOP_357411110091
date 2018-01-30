@@ -589,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517279850557</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Inheritance : student">
+      <created>1517279948321</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1517279948321</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -628,7 +635,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test Input Data" />
     <MESSAGE value="Test Condition" />
     <MESSAGE value="Grade Calculator" />
     <MESSAGE value="Test SwitchCase" />
@@ -653,7 +659,8 @@
     <MESSAGE value="Supercar" />
     <MESSAGE value="mySupercar" />
     <MESSAGE value="Inheritance : Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : Person" />
+    <MESSAGE value="Inheritance : student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance : student" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
