@@ -8,6 +8,10 @@ public abstract class Pet {
         this.name = name;
         this.age = age;
     }
+    protected void myPet(){
+        System.out.println(this.name);
+    }
+    //Abstract Method
     public abstract void makeNoise();
 
     @Override
